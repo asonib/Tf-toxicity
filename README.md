@@ -3,7 +3,7 @@ REST API server built using Node/Express.js
 
 **Server Link(Host)**: `Not Hosted`
 
-**Response Time**: `12sec or more. :-(`
+**Response Time**: `1m 9sec or more. :-(`
 
 ## Classify API Endpoint
 Make a POST request to the endpoint with the sentence whose toxicity is to be detected.
